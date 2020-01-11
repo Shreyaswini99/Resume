@@ -95,7 +95,7 @@ body
 
 .resume .resume_left ul li:last-child
 {
-    margin-bottom: 0px;
+    margin-bottom: 0;
 }
 
 .resume .resume_left ul li .icon
@@ -138,7 +138,7 @@ body
 .resume .resume_left .resume_skills ul li .skill_progress
 {
     width: 60%;
-    margin: 0 50px;
+    margin: 0 5px;
     height: 5px;
     background: #009fd9;
     position: relative;
@@ -182,7 +182,7 @@ body
    position: relative;
 }
 
-.resume .resume_right ul li .data
+.resume .resume_right ul li .date
 {
     font-size: 16px;
     font-weight: 500;
