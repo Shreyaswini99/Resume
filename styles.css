@@ -224,8 +224,8 @@ body {
   content: "";
   position: absolute;
   top: 40px;
-  right: -125px;
-  width: 125px;
+  right: -120px;
+  width: 120px;
   height: 2px;
   background: #0bb5f4;
 }
